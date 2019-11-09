@@ -1,0 +1,37 @@
+p {
+  text-align: center;
+  font-family: Lato;
+}
+h1 {
+  text-align: center;
+  color: rgb(231, 71, 210);
+}
+h3 {
+  text-align: center;
+  color: blueviolet;
+}
+ img{
+width: 50%;
+
+ }
+ section{
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ .card {
+  font-family: sans-serif;
+  width: 400px;
+}
+.title {
+  font-size: 30px;
+  text-align: center;
+}
+.description-title {
+  font-size: 24px;
+  text-align: center;
+}
+.description {
+  font-size: 18px;
+}
